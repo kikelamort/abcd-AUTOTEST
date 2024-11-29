@@ -1,0 +1,25 @@
+{
+  "default": [
+    {
+      "question": ",mll",
+      "answers": [
+        {
+          "text": "hh",
+          "isCorrect": true
+        },
+        {
+          "text": "juu",
+          "isCorrect": false
+        },
+        {
+          "text": "uuu",
+          "isCorrect": false
+        },
+        {
+          "text": "uuu",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
