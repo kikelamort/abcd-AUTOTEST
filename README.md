@@ -165,10 +165,6 @@ quiz-generator/
 
 ## 📬 Contact
 
-Your Name - kikelamort
+- kikelamort kikejguerao@gmail.com
 
-Project Link: [https://github.com/yourusername/quiz-generator-system](https://github.com/yourusername/quiz-generator-system)
-
----
-
-Made with ❤️ by [Your Name] 
+Made with ❤️ by [riothedog/kikelamort] 
